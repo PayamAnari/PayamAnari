@@ -75,14 +75,6 @@
 
 ---
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
----
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -100,3 +92,12 @@
   <a align="right" href="https://github.com/payamanari/WEBSITENAME-copy" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=WEBSITENAME-copy&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
+
+---
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
