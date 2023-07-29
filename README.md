@@ -80,3 +80,22 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+---
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/payamanari/Api-movie-finder" title="Api-movie-finder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Api-movie-finder&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/payamanari/Api-image-finder" title="Api-image-finder"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Api-image-finder&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/payamanari/Calendar-Project" title="Calendar-Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Calendar-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/payamanari/Hover-Board" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Hover-Board&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/payamanari/Drum-Kit" title="Drum-Kit"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Drum-Kit&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/payamanari/WEBSITENAME-copy" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=WEBSITENAME-copy&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
