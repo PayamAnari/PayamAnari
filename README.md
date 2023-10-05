@@ -26,29 +26,36 @@
 
 ### 🔨 Languages and Tools:
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql">
-</a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb">
-</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"> 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&animation=spin&svgfill=15d8fe">
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">
 </a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=15d8fe">
 </a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&animation=spin&svgfill=15d8fe">
 </a>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=json">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=npm&animation=spin&svgfill=15d8fe">
 </a>
-
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=json&animation=spin&svgfill=15d8fe">
+</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify&animation=spin&svgfill=15d8fe">
+</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=heroku&animation=spin&svgfill=15d8fe">
+</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=15d8fe">
+</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&animation=spin&svgfill=15d8fe">
+</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=slack&animation=spin&svgfill=15d8fe">
 
 
 ---
