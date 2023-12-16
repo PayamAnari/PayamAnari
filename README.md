@@ -59,7 +59,15 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=15d8fe">
 
+---
+## Technologies to Learn :
+I'm excited to dive into the following technologies:
 
+
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&svgfill=15d8fe">
 
 
 
