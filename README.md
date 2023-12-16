@@ -60,7 +60,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=15d8fe">
 
 ---
-## Technologies to Learn :
+### :wrench: Technologies to Learn :
 I'm excited to dive into the following technologies:
 
 
