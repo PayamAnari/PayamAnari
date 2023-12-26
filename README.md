@@ -76,7 +76,8 @@ I'm excited to dive into the following technologies:
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=payamanari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payamanari&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
