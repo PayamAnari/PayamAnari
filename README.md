@@ -73,11 +73,9 @@ I'm excited to dive into the following technologies:
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=payamanari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payamanari&show_icons=true&theme=highcontrast)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ---
 
