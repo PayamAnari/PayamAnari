@@ -96,26 +96,7 @@ I'm excited to dive into the following technologies:
 ---
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/payamanari/mern-estate" title="mern-estate"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=mern-estate&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/payamanari/react-fitness-app" title="react-fitness-app"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=react-fitness-app&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/payamanari/gym-whiz" title="gym-whiz"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=gym-whiz&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/payamanari/Api-weather-app" title="Api-weather-app"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Api-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/payamanari/Api-movie-finder" title="Api-movie-finder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Api-movie-finder&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/payamanari/Api-image-finder" title="Api-image-finder"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=payamanari&repo=Api-image-finder&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-
----
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
