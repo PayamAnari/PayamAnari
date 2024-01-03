@@ -14,7 +14,13 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" align="center" width="350" height="250" />
   
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🧑‍💻 I am passionate about technology and software development. I am on an exciting journey to become a skilled full-stack developer, and I'm eager to learn new programming languages, frameworks, and technologies
+- 🧑‍💻 Passionate full-stack developer with a love for crafting dynamic, user-
+friendly web apps. Sports enthusiast – former football goalkeeper in 
+Iran's lower leagues and provincial handball player. Fitness has been a 
+long-standing passion, and I continue to stay active. Also, a skilled artist 
+with numerous wins in Iranian and provincial drawing competitions. 
+Excited to bring my diverse experiences into the world of web 
+development.
 
 - 💬 Ask me about anything tech related, I am happy to help;
 - 🌱 I’m currently learning **At Hack Your Future**
