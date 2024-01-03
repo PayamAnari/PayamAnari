@@ -75,7 +75,19 @@ I'm excited to dive into the following technologies:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&svgfill=15d8fe">
 
+---
 
+
+## 📫 Connect with me  
+<div align="center">
+<a href="https://github.com/payamanari" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://linkedin.com/in/payam-anari-3476bb131/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
