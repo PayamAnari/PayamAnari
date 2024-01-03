@@ -22,10 +22,8 @@ with numerous wins in Iranian and provincial drawing competitions.
 Excited to bring my diverse experiences into the world of web 
 development.
 
-- 💬 Ask me about anything tech related, I am happy to help;
 - 🌱 I’m currently learning **At Hack Your Future**
 - 💻 I love exploring new tech stack and building cool stuffs.
-- 📰 Reading & writing tech blogs whenever possible.
 - ⚡ Football, Bodybuilding, Movies and Series
 
 ---
