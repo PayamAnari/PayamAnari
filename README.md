@@ -97,7 +97,7 @@ I'm excited to dive into the following technologies:
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayamAnari&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
-      </p
+      </p>
          </td>
   </tr>
 </table>
