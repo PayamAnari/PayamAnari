@@ -89,7 +89,18 @@ I'm excited to dive into the following technologies:
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payamanari&show_icons=true&theme=highcontrast)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayamAnari&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p
+         </td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
