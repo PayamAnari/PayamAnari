@@ -89,23 +89,17 @@ I'm excited to dive into the following technologies:
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayamAnari&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-         </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/PayamAnari">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PayamAnari&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 
 ---
-
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=PayamAnari&hide_border=true&theme=dark"></a></p>
 
 
 
