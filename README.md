@@ -98,9 +98,6 @@ I'm excited to dive into the following technologies:
  <img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PayamAnari&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 
 ---
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=PayamAnari&hide_border=true&theme=dark"></a></p>
-
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
