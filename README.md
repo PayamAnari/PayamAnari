@@ -37,6 +37,7 @@ development.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&animation=spin&svgfill=15d8fe">
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"> 
    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&animation=spin&svgfill=15d8fe">
@@ -75,6 +76,9 @@ I'm excited to dive into the following technologies:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=graphql&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=fastapi&animation=spin&svgfill=15d8fe">
+
 
 ---
 
