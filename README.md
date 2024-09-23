@@ -22,7 +22,7 @@ with numerous wins in Iranian and provincial drawing competitions.
 Excited to bring my diverse experiences into the world of web 
 development.
 
-- 🌱 I’m currently learning **At Hack Your Future**
+- 🌱 Full Stack Developer currently working at **kubespaces.io**
 - 💻 I love exploring new tech stack and building cool stuffs.
 - ⚡ Football, Bodybuilding, Movies and Series
 
