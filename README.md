@@ -65,6 +65,9 @@ development.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swagger&animation=spin&svgfill=15d8fe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=composer&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&animation=spin&svgfill=15d8fe">
 
 ---
 ### :wrench: Technologies to Learn :
